@@ -23,7 +23,12 @@ Run this to install the dependencies:
 
 ### Sentiment Analyzer Usage
 1.  You might also need to install some other required packages that are mentioned in the .ipynb file. The first block of the python notebook will contain the install script for them.
-2.  After all dependencies are correctly installed, run every block of the Python notebook for both the lexicon-based ([Sentiment Analysis using Textblob with PreProcessing.ipynb](https://github.com/anshB1998/BusinessSentimentAnalyser/blob/master/code/Sentiment%20Analysis%20using%20Textblob%20with%20PreProcessing.ipynb "Sentiment Analysis using Textblob with PreProcessing.ipynb")) as well as the machine learning models ([ML_Based_Approach.ipynb](https://github.com/anshB1998/BusinessSentimentAnalyser/blob/master/code/ML_Based_Approach.ipynb "ML_Based_Approach.ipynb")). You can also run all the cells at once by clicking on the run all button.
+2.  After all dependencies are correctly installed, run every block of the Python notebook for both the lexicon-based ([Sentiment Analysis using Textblob with PreProcessing.ipynb](https://github.com/anshB1998/BusinessSentimentAnalyser/blob/master/code/Sentiment%20Analysis%20using%20Textblob%20with%20PreProcessing.ipynb "Sentiment Analysis using Textblob with PreProcessing.ipynb")) as well as the machine learning models ([ML Models.ipynb](https://github.com/anshB1998/BusinessSentimentAnalyser/blob/master/code/ML%20Models.ipynb "ML Models.ipynb")). You can also run all the cells at once by clicking on the run all button.
+
+### Recommendation System Usage
+1.  For running the web application which includes the recommendation system please install the [Live-Server extension in VS code](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer). If you are using live-server, once you install the extension and open [app.js](https://github.com/anshB1998/BusinessSentimentAnalyser/blob/master/app.js "app.js"), you will have an option which says to “Go Live” at the bottom right of your VS code editor.
+    
+2.  Once you click Go Live the application is deployed and you can enter the name of the company of which you want to find the Sentiment score, label and the recommendation for that company.
 
 ## Idea Description
 
