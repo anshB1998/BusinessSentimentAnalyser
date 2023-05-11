@@ -1,5 +1,5 @@
 
-# Business Perception Tool Using Sentiment Analysis
+# Business Sentiment Analyser Tool
 
 ## Team
 Team Members:
